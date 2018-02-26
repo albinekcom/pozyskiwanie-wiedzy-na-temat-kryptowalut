@@ -7,6 +7,7 @@ Prezentacja i zbiór stron do pozyskiwanie wiedzy na temat kryptowalut.
 - http://bitcoin.pl
 - http://btcpolska.com
 - https://bithub.pl
+- https://cryptonews.pl
 
 ### 🇬🇧 Zagraniczne
 - https://www.coindesk.com
