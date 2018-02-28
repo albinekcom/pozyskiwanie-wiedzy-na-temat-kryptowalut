@@ -30,3 +30,9 @@ Prezentacja i zbiór stron do pozyskiwanie wiedzy na temat kryptowalut.
 
 - [aantonop](https://www.youtube.com/user/aantonop/featured)
 - [Cedric Dahl](https://www.youtube.com/user/inspiredeye)
+
+## Kanały Telegram
+
+### 🇵🇱 Polskie
+
+- [Polski Akcelerator Technologii Blockchain](https://t.me/polkryptonews)
